@@ -1,4 +1,5 @@
 annotations:
+  strategy.spinnaker.io/replace: "true"
   catalog.cattle.io/certified: rancher
   catalog.cattle.io/hidden: "true"
   catalog.cattle.io/namespace: cattle-monitoring-system
